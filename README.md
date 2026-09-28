@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sneha 
 
-<!--
-**Sneha-yadav-codes/Sneha-yadav-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student @IGDTUW
 
-Here are some ideas to get you started:
+First-year CSE student focused on building strong programming and development fundamentals through hands-on learning and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech & Tools
+
+**Programming:** C
+**Web:** HTML, CSS
+**Tools:** Git, GitHub, VS Code, Command Line, Canva
+
+## Currently Learning
+
+C Programming · Web Development · Git & GitHub · DSA
+
+### Exposure
+
+React · JavaScript · APIs · XML · Solidity
